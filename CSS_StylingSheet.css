@@ -4,11 +4,11 @@ p.table1 th, td {
 p.table2 th, td {
     text-align:center;
 }
-p.table1 th {
-    background-color:tomato;
+p.table1 th, td {
+    background-color:tomato !important;
 }
-p.table2 th {
-    background-color:cadetblue;
+p.table2 th, td {
+    background-color:cadetblue !important;
 }
 p.table1 p.table2 table, th, tr, td{
     border:1px solid black;
