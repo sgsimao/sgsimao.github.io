@@ -1,9 +1,9 @@
-!important p.table1 table, th, td {
+p.table1 table, p.table1 th, p.table1 td {
     border: 1px solid black;
     background-color: tomato;
     text-align: center;
 }
-p.table2 table, th, td {
+p.table2 table, p.table2 th, p.table2 td {
     border: 1px solid black;
     background-color: tomato;
     text-align: center;
