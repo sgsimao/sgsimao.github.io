@@ -1,4 +1,4 @@
-p.table1 table, th, td {
+p.table1 table, th, td !important {
     border: 1px solid black;
     background-color: tomato;
     text-align: center;
