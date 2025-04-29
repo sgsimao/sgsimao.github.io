@@ -1,15 +1,15 @@
 p.table1 th, td {
-    text-align: center;
+    text-align:center;
 }
 p.table2 th, td {
-    text-align: center;
+    text-align:center;
 }
 p.table1 th {
-    background-color: tomato;
+    background-color:tomato;
 }
 p.table2 th {
-    background-color: cadetblue;
+    background-color:cadetblue;
 }
 p.table1 p.table2 table, th, tr, td{
-    border: 1px solid black;
+    border:1px solid black;
 }
