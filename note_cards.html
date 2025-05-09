@@ -17,6 +17,7 @@
         animation-name: hoverEffect;
         animation-duration: 2s;
         animation-delay: 1s;
+        animation-fill-mode: forwards;
       }
       @keyframes hoverEffect {
         0% {background-color: khaki;}
@@ -29,6 +30,9 @@
       p.answer {
         visibility: hidden;
         font-weight: bold;
+      }
+      div:hover p.answer {
+        visibility: visible;
       }
     </style>
   </head>
